@@ -25,4 +25,16 @@
 
 全景拼接技术主线知识点支撑体系
 
-<img style="float: left;" src="theme1.png" alt="示例图片" width="40%">
+<img style="float: left;" src="theme1.png" alt="示例图片" width="50%">
+
+相机标定与单目测量技术主线知识点支撑体系
+
+<img style="float: left;" src="theme1.png" alt="示例图片" width="50%">
+
+目标检测技术主线知识点支撑体系
+
+<img style="float: left;" src="theme1.png" alt="示例图片" width="50%">
+
+三维立体视觉技术主线知识点支撑体系
+
+<img style="float: left;" src="theme1.png" alt="示例图片" width="50%">
