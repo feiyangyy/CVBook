@@ -29,11 +29,12 @@
 
 相机标定与单目测量技术主线知识点支撑体系
 
-<img style="float: left;" src="theme1.png" alt="示例图片" width="60%">
+<img style="float: left;" src="theme2.png" alt="示例图片" width="60%">
 
 目标检测技术主线知识点支撑体系
 
-<img style="float: left;" src="theme1.png" alt="示例图片" width="60%">
+<img style="float: left;" src="theme3-1.png" alt="示例图片" width="60%">
+<img style="float: left;" src="theme3-2.png" alt="示例图片" width="60%">
 
 三维立体视觉技术主线知识点支撑体系
 
