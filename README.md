@@ -1,6 +1,7 @@
 # 教材信息
 张林，赵生捷，《计算机视觉：原理算法与实践》，清华大学出版社，ISBN：978-7-302-68676-7，2025年5月
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](book_cover.jpeg)
+![Alt](book_cover.jpeg =600x600)
+
 
 # 本书特点
 近年来，随着我国对人工智能领域人才培养支持力度的持续加大，越来越多的高校开设了计算机视觉课程。计算机视觉是一门综合性学科，其知识体系非常庞杂；同时，相较于计算机体系结构、数据结构、操作系统等计算机其他分支方向而言，它还是一门非常年轻的学科，其自身的学科内涵和基本研究方法目前仍处于快速完善和迭代阶段。这些现实情况给在大学讲授这门课的老师们提出了一个值得探讨的开放性问题：计算机视觉这门课程应该教什么？怎么教？
