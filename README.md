@@ -1,6 +1,6 @@
 # 教材信息
 张林，赵生捷，《计算机视觉：原理算法与实践》，清华大学出版社，ISBN：978-7-302-68676-7，2025年5月
-<img src="book_cover.jpg" alt="示例图片" width="50%">
+<img src="book_cover.jpg" alt="示例图片" width="40%">
 
 
 # 本书特点
