@@ -48,6 +48,6 @@
 
 单目测量
 
-<img style="float: left;" src="imgs\measurement-1.gif" alt="示例图片" width="80%">
+<img style="float: left;" src="imgs\measurement-1.gif" alt="示例图片" width="60%">
 
-<img style="float: left;" src="imgs\measurement-2.gif" alt="示例图片" width="80%">
+<img style="float: left;" src="imgs\measurement-2.gif" alt="示例图片" width="60%">
