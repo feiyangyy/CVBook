@@ -51,3 +51,13 @@
 <img style="float: left;" src="imgs\measurement-1.gif" alt="示例图片" width="60%">
 
 <img style="float: left;" src="imgs\measurement-2.gif" alt="示例图片" width="60%">
+
+目标检测
+
+<img style="float: left;" src="imgs\obj-detect.gif" alt="示例图片" width="60%">
+
+三维立体视觉
+
+<img style="float: left;" src="imgs\3d-1.png" alt="示例图片" width="60%">
+
+<img style="float: left;" src="imgs\3d-2.png" alt="示例图片" width="60%">
