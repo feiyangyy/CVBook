@@ -60,4 +60,8 @@
 
 <img style="float: left;" src="imgs\3d-1.png" alt="示例图片" width="60%">
 
-<img style="float: left;" src="imgs\3d-2.png" alt="示例图片" width="60%">
+<img style="float: left;" src="imgs\3d-2.gif" alt="示例图片" width="60%">
+
+<img style="float: left;" src="imgs\3d-3.gif" alt="示例图片" width="60%">
+
+<img style="float: left;" src="imgs\3d-4.gif" alt="示例图片" width="60%">
