@@ -38,4 +38,4 @@
 
 三维立体视觉技术主线知识点支撑体系
 
-<img style="float: left;" src="imgs\theme1.png" alt="示例图片" width="80%">
+<img style="float: left;" src="imgs\theme4.png" alt="示例图片" width="80%">
