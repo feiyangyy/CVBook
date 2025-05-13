@@ -70,4 +70,9 @@
 
 # 课视频
 [00-本书编写指导思想和内容组织思路介绍](https://www.bilibili.com/video/BV12aVqzAELD/?spm_id_from=333.337.search-card.all.click&vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
 [01-计算机视觉介绍-（什么是CV，发展简史）](https://www.bilibili.com/video/BV18u55zCEof?spm_id_from=333.788.videopod.sections&vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[02-计算机视觉介绍-（发展简史，我们的工作）](https://www.bilibili.com/video/BV1Dt5VzrEto?spm_id_from=333.788.videopod.sections&vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[03-计算机视觉介绍-（我们的工作，课程主线安排）](https://www.bilibili.com/video/BV192EEzBEgU?spm_id_from=333.788.videopod.sections&vd_source=5cecc28f8471406b6fec5f23dc6619fd)
