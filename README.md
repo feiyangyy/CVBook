@@ -67,3 +67,7 @@
 <img style="float: left;" src="imgs\3d-3.gif" alt="示例图片" width="60%">
 
 <img style="float: left;" src="imgs\3d-4.gif" alt="示例图片" width="60%">
+
+# 课视频
+[00-本书编写指导思想和内容组织思路介绍](https://www.bilibili.com/video/BV12aVqzAELD/?spm_id_from=333.337.search-card.all.click&vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+[01-计算机视觉介绍-（什么是CV，发展简史）](https://www.bilibili.com/video/BV18u55zCEof?spm_id_from=333.788.videopod.sections&vd_source=5cecc28f8471406b6fec5f23dc6619fd)
