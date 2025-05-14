@@ -76,3 +76,7 @@
 [02-计算机视觉介绍-（发展简史，我们的工作）](https://www.bilibili.com/video/BV1Dt5VzrEto?spm_id_from=333.788.videopod.sections&vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
 [03-计算机视觉介绍-（我们的工作，课程主线安排）](https://www.bilibili.com/video/BV192EEzBEgU?spm_id_from=333.788.videopod.sections&vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[04-全景拼接主线介绍](https://www.bilibili.com/video/BV1bF7fzuEGD/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[05-线性几何变换-（旋转，欧氏，齐次坐标）](https://www.bilibili.com/video/BV1SbEBzQEhx/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
