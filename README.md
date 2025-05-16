@@ -80,3 +80,7 @@
 [04-全景拼接主线介绍](https://www.bilibili.com/video/BV1bF7fzuEGD/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
 [05-线性几何变换-（旋转，欧氏，齐次坐标）](https://www.bilibili.com/video/BV1SbEBzQEhx/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[06-线性几何变换-（相似，仿射，射影）](https://www.bilibili.com/video/BV1W8ECz4Epw/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[07-线性几何变换-（变换群与几何学，基本几何不变量）](https://www.bilibili.com/video/BV1c7EyzsEm9?spm_id_from=333.788.recommend_more_video.0&vd_source=5cecc28f8471406b6fec5f23dc6619fd)
