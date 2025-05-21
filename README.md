@@ -86,3 +86,9 @@
 [07-线性几何变换-（变换群与几何学，基本几何不变量）](https://www.bilibili.com/video/BV1c7EyzsEm9?spm_id_from=333.788.recommend_more_video.0&vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
 [08-线性几何变换-（李群与李代数）](https://www.bilibili.com/video/BV1RZEfzpEHw/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[09-Harris特征-（角点检测基本思想）](https://www.bilibili.com/video/BV1uqJqzHEDm/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[10-Harris特征-（角点检测数学建模）](https://www.bilibili.com/video/BV1uqJqzHEt3/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[11-Harris特征-（角点检测程序实现流程）](https://www.bilibili.com/video/BV1pGJzzjEWK/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
