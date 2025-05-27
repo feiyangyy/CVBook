@@ -92,3 +92,7 @@
 [10-Harris特征-（角点检测数学建模）](https://www.bilibili.com/video/BV1uqJqzHEt3/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
 [11-Harris特征-（角点检测程序实现流程）](https://www.bilibili.com/video/BV1pGJzzjEWK/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[12-Harris特征-（块描述子及其距离，特征点匹配）](https://www.bilibili.com/video/BV113j1z8ERG/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[13-Harris特征匹配程序演示，SIFT特征点检测](https://www.bilibili.com/video/BV1M6jXz9EiG/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
