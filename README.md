@@ -95,8 +95,16 @@
 
 [12-Harris特征-（块描述子及其距离，特征点匹配）](https://www.bilibili.com/video/BV113j1z8ERG/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
-[13-Harris特征匹配程序演示，SIFT特征点检测](https://www.bilibili.com/video/BV1M6jXz9EiG/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+[13-Harris特征-（Harris角点匹配程序演示），SIFT特征](https://www.bilibili.com/video/BV1M6jXz9EiG/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
-[14-SIFT特征-尺度不变点检测 方向归一化](https://www.bilibili.com/video/BV1kBjYzWERZ/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+[14-SIFT特征-（尺度不变点检测，方向归一化）](https://www.bilibili.com/video/BV1kBjYzWERZ/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
-[15-SIFT描述子，SIFT开源实现，基于LLM做个调包侠](https://www.bilibili.com/video/BV1HzjyzpE8g/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+[15-SIFT特征-（SIFT描述子，SIFT开源实现，基于LLM做个调包侠）](https://www.bilibili.com/video/BV1HzjyzpE8g/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[16-ORB特征-（FAST特征点，BRIEF描述子，海明距离）](https://www.bilibili.com/video/BV1t1T7zcEPJ/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[17-ORB特征-（ORB中的多尺度处理），矩阵微分](https://www.bilibili.com/video/BV1NwTszyEBg/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[18-线性最小二乘问题-（矩阵微分，拉格朗日乘子法，奇异值分解）](https://www.bilibili.com/video/BV1WwTszCEdo/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+
