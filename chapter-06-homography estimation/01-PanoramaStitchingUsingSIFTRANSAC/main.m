@@ -28,7 +28,7 @@ end
 
 points2 = detectSIFTFeatures(I2);
 figure;
-imshow(uint8(imgColor2),[]);
+imshow(uint8(imgColor2),[]); 
 hold on;
 
 strong2 = points2.selectStrongest(400);
@@ -221,6 +221,9 @@ hold off
         end
     end
     
+    figure;
+    imshow(uint8(transformedImage),[]);
+
     transformedImage(-finalTop + 2 : -finalTop + 1 + rowsIm2, -finalLeft + 2 : -finalLeft + 1 + colsIm2,:) = imgColor2;
     figure;
     imshow(uint8(transformedImage),[]);
