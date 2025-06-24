@@ -107,4 +107,14 @@
 
 [18-线性最小二乘问题-（矩阵微分，拉格朗日乘子法，奇异值分解）](https://www.bilibili.com/video/BV1WwTszCEdo/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
+[19-线性最小二乘问题-（齐次线性最小二乘问题建模）](https://www.bilibili.com/video/BV1gWM4zcEYh/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[20-线性最小二乘问题-（齐次线性最小二乘问题求解）](https://www.bilibili.com/video/BV15LM4ziEu4/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[21-线性最小二乘问题-（非齐次线性最小二乘问题，凸函数二阶判定，穆尔-彭罗斯广义逆）](https://www.bilibili.com/video/BV1HgMYzPERi/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[22-单应矩阵的鲁棒估计-（随机采样一致集框架）](https://www.bilibili.com/video/BV183KbzFEDK/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[23-全景拼接实现-（图像插值，Matlab实现，Python实现）](https://www.bilibili.com/video/BV1zRK8zUE1C/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
 
