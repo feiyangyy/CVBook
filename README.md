@@ -117,4 +117,14 @@
 
 [23-全景拼接实现-（图像插值，Matlab实现，Python实现）](https://www.bilibili.com/video/BV1zRK8zUE1C/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
+[24-单目测量主线介绍](https://www.bilibili.com/video/BV1jzgHzaEZq/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
+[25-射影几何初步-（矢量运算，射影平面）](https://www.bilibili.com/video/BV18m8uzTEUQ/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[26-射影几何初步-（射影平面，齐次坐标）](https://www.bilibili.com/video/BV1i98MzVEqU/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[27-射影几何初步-（射影平面上的点与线）](https://www.bilibili.com/video/BV1Ta8MzbEig/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[28-非线性最小二乘问题-（前置知识，非线性优化问题定义）](https://www.bilibili.com/video/BV1ia8tzFEwz/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[29-非线性最小二乘问题-（非线性优化问题，阻尼法）](https://www.bilibili.com/video/BV16n8tzqEMz/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
