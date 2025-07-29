@@ -128,3 +128,9 @@
 [28-非线性最小二乘问题-（前置知识，非线性优化问题定义）](https://www.bilibili.com/video/BV1ia8tzFEwz/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
 [29-非线性最小二乘问题-（非线性优化问题，阻尼法）](https://www.bilibili.com/video/BV16n8tzqEMz/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[30-非线性最小二乘问题-（增益比，阻尼系数，雅可比矩阵）](https://www.bilibili.com/video/BV1uy8DznEQX/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[31-非线性最小二乘问题-（高斯牛顿法，列文伯格-马夸特法）](https://www.bilibili.com/video/BV1i789ziEGe/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[32-非线性最小二乘问题-（列文伯格马夸特法及其实现实例）](https://www.bilibili.com/video/BV1Xc8XztE4o/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
