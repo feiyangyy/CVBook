@@ -58,7 +58,7 @@ def levenberg_marquardt_simple(fun, jac, x0, max_iter=100, tol=1e-8,
         
         # 计算预测减少量和增益比
         fx_pred = fx + J @ dx
-        predicted_reduction = 0.5 * (np.sum(fx**2) - np.sum(fx_pred**2))
+        predicted_reduction = np.sum(fx**2) - np.sum(fx_pred**2)
         x_new = x + dx
         fx_new = fun(x_new)
         cost_new = 0.5*np.sum(fx_new**2)
