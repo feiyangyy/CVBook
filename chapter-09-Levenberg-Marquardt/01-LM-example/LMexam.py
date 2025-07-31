@@ -98,7 +98,7 @@ x_opt, costs, path = levenberg_marquardt_simple(
 # 5. 输出结果
 print(f"初始点: x = {x0[0]}, y = {x0[1]}")
 print(f"最优解: x = {x_opt[0]:.6f}, y = {x_opt[1]:.6f}")
-print(f"目标函数最小值: {sum_of_squares(x_opt):.6e}")
+print(f"目标函数最小值: {0.5*sum_of_squares(x_opt):.6e}")
 print(f"迭代次数: {len(costs) - 1}")
 
 # 6. 可视化目标函数值随迭代的变化
