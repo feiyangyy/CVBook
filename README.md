@@ -134,3 +134,25 @@
 [31-非线性最小二乘问题-（高斯牛顿法，列文伯格-马夸特法）](https://www.bilibili.com/video/BV1i789ziEGe/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
 [32-非线性最小二乘问题-（列文伯格马夸特法及其实现实例）](https://www.bilibili.com/video/BV1Xc8XztE4o/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[33-相机成像流程建模-（针孔相机模型）](https://www.bilibili.com/video/BV1a1YDz8Etd/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[34-相机成像流程建模-（针孔相机模型2）](https://www.bilibili.com/video/BV1iiYDziEV8/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[35-相机成像流程建模-（镜头畸变建模）](https://www.bilibili.com/video/BV172eJzpEYH/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[36-相机内参平面标定法-（问题的数学建模，旋转的轴角表达）](https://www.bilibili.com/video/BV1Ctvcz1EXt/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[37-相机内参平面标定法-（罗德里格斯公式，内参初始化）](https://www.bilibili.com/video/BV1CevAzJEAz/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[38-相机内参平面标定法-（消失点）](https://www.bilibili.com/video/BV1wse1zYEF8/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[39-相机内参平面标定法-（焦距初始化）](https://www.bilibili.com/video/BV1o3eyzpEXX/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[40-相机内参平面标定法-（外参初始化）](https://www.bilibili.com/video/BV1NwhXzDEXx/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[41-相机内参平面标定法-（雅可比矩阵元素表达式推导）](https://www.bilibili.com/video/BV1HYh9zEEBk/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[42-相机内参应用-（镜头畸变去除，鸟瞰视图）](https://www.bilibili.com/video/BV1AXhCzREMV/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[43-相机标定与单目测量实践](https://www.bilibili.com/video/BV168aGzAE45/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
