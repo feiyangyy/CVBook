@@ -156,3 +156,15 @@
 [42-相机内参应用-（镜头畸变去除，鸟瞰视图）](https://www.bilibili.com/video/BV1AXhCzREMV/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
 [43-相机标定与单目测量实践](https://www.bilibili.com/video/BV168aGzAE45/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[44-目标检测主线介绍，凸集合](https://www.bilibili.com/video/BV1ftYNz5EL5/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[45-凸优化基础-（仿射集，仿射包，内部，闭包，边界，开集，相对内部，相对边界）](https://www.bilibili.com/video/BV1CxHUzLEip/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[46-凸优化基础-（仿射函数，凸函数，凹函数，凸函数的一阶判定条件）](https://www.bilibili.com/video/BV1s1HSzHE3d/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[47-凸优化基础-（凸函数的二阶判定，凸函数逐点求最大及非负组合）](https://www.bilibili.com/video/BV1oPH8zmEQb/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[48-凸优化基础-（优化问题，凸优化问题，凸二次规划问题）](https://www.bilibili.com/video/BV184HezEEY7/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[49-凸优化基础-（拉格朗日函数，拉格朗日对偶函数，对偶问题）](https://www.bilibili.com/video/BV1BjHBzrEdu/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
