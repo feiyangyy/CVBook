@@ -57,7 +57,6 @@ def harris_corner_detector(im, sigma=4, thresh=0.3, nonmaxrad=5):
     # 这里找到角点的坐标，默认取非0的点
     ys, xs = np.where(corners)  # ys 对应行，xs 对应列
     rows, cols = ys, xs         # 如果你想用 rows/cols 命名
-
     return rows, cols
   
   
